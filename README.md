@@ -41,7 +41,7 @@ Designed and developed a standalone photovoltaic (PV) water pumping system power
 - Energy Analysis
 - Motor Drive Applications
 - Technical Documentation
-- propesed system block diagram.jpeg
+![PV Water Pumping System](images/pv-system.png)
 
 ## Academic Project
 Bachelor of Technology (Electrical & Electronics Engineering), 2023
