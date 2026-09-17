@@ -16,7 +16,7 @@ Designed and developed a standalone photovoltaic (PV) water pumping system power
 - Water Pump
 - Power Conditioning Unit
 - Protection and Monitoring System
-
+![image alt](https://github.com/ChandrikaSolleti/PV-Water-Pumping-Induction-Motor/blob/2c683d48e1d076ca5f952eeb9aace984180066d2/propesed%20system%20block%20diagram.jpeg)
 ## Methodology
 - Designed the PV-powered pumping system configuration.
 - Analyzed motor performance under varying solar conditions.
@@ -41,7 +41,7 @@ Designed and developed a standalone photovoltaic (PV) water pumping system power
 - Energy Analysis
 - Motor Drive Applications
 - Technical Documentation
-![](propesed system block diagram.jpeg/propesed system block diagram.jpeg)
+
 
 ## Academic Project
 Bachelor of Technology (Electrical & Electronics Engineering), 2023
